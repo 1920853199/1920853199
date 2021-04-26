@@ -5,7 +5,7 @@
 
 <p align="center"> 90后技术宅男 </p>  
 <p align="center"> 有多年跨境电商平台，大数据平台开发经验，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
-<p align="center"> 专注于Golang,PHP开发，目前正在对Dgraph研究</p>  
+<p align="center"> 专注于Golang,PHP开发，目前正在对Dgraph图数据库研究</p>  
 
 
 <table align="center"><tr>

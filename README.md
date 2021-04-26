@@ -3,46 +3,30 @@
   <img src="https://github-readme-stats.vercel.app/api?username=1920853199&show_icons=true&theme=graywhite"/>
 </p>
 
-<p align="center"> 9年技术博主，CSDN认证博客专家，新晋视频up主 </p>  
-<p align="center"> 曾在阿里做过2年运维+1年开发，现为某厂Java后端开发工程师，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
-<p align="center"> 专注于Java，对操作系统、网络、编译原理也有涉猎，目前正在写一门简易的脚本语言u-lang	 </p>  
+<p align="center"> 90后技术宅男 </p>  
+<p align="center"> 有多年跨境电商平台，大数据平台开发经验，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
+<p align="center"> 专注于Golang,PHP开发，目前正在对Dgraph研究</p>  
 
 
 <table align="center"><tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 ### 开源项目  
-- [eng-practices-cn](https://github.com/xindoo/eng-practices-cn)谷歌工程实践中文版	
-- [regex](https://github.com/xindoo/regex)Java实现的正则引擎表达式	
-- [redis](https://github.com/xindoo/redis) Redis中文注解版  
-- [slowjson](https://github.com/xindoo/slowjson) 用antlr实现的json解析器  
-- [leetcode](https://github.com/xindoo/leetcode) 我的Leetcode题解   
+- [Go Blog](https://github.com/1920853199/go-blog) 一个基于Beego的，能快速创建个人博客，cms 的系统	
+- [Terminal Reader](https://github.com/1920853199/terminal-reader) 终端阅读器 
+- [Mysql Viewer](https://github.com/1920853199/mysql-viewer) mysql 实时性能分析工具
+- [Create Site](https://github.com/1920853199/create-site)PHP 建站中心系统
+- [Php Project](https://github.com/1920853199/php-project) 早年 php 项目-包括了给未来一封信，1q84(句子迷之类)，一建建站系统，商城系统  
    
-[查看更多](https://github.com/xindoo/)	 
+[查看更多](https://github.com/1920853199/)	 
 
 	
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 ### 我的博客
-- [如何用正则表达式来检测一个数是否是素数](https://blog.csdn.net/xindoo/article/details/115826620)
-- [Redis源码剖析之AOF](https://blog.csdn.net/xindoo/article/details/115447240)
-- [Redis源码剖析之RDB](https://blog.csdn.net/xindoo/article/details/115287396)
-- [我是如何打造出自己私有云存储的](https://blog.csdn.net/xindoo/article/details/114786448)
-- [Redis源码剖析之内存淘汰策略(Evict)](https://blog.csdn.net/xindoo/article/details/114239967)
+- 有空补充
 
-[查看更多](https://xindoo.blog.csdn.net/)
 
-</td>
-<td valign="top" width="33%">
-
-### 我的专栏  
-- [Redis源码剖析](https://blog.csdn.net/xindoo/category_10068113.html)  
-- [面试题精选](https://blog.csdn.net/xindoo/category_9991116.html)  
-- [高效工程师系列](https://blog.csdn.net/xindoo/category_9287916.html)  
-- [Java源码解析](https://blog.csdn.net/xindoo/category_9287770.html?spm=1001.2014.3001.5482)    
-- ……
-
-	
 </td>
 </tr></table>

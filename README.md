@@ -27,6 +27,7 @@
 ### 我的博客
 - https://nihongdengxia.com
 - http://clblog.club/
+- http://gooooooooogle.cn/
 
 </td>
 </tr></table>

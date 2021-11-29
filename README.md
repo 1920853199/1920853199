@@ -1,19 +1,13 @@
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1920853199&show_icons=true&theme=graywhite"/>
-</p>
+<p align="center"> 90后技术宅男 </p>  
+<p align="center"> 有多年跨境电商平台，大数据平台开发经验，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
+<p align="center"> 专注于Golang,PHP开发，目前正在对算法以及Dgraph图数据库研究</p>  
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1920853199&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1920853199&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1920853199&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1920853199&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1920853199&theme=github)
-
-
-<p align="center"> 90后技术宅男 </p>  
-<p align="center"> 有多年跨境电商平台，大数据平台开发经验，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
-<p align="center"> 专注于Golang,PHP开发，目前正在对算法以及Dgraph图数据库研究</p>  
-
 
 <table align="center"><tr>
 <td valign="top" width="50%">

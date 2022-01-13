@@ -1,5 +1,5 @@
-
-### Hi there 👋 <p align="center"><img src="https://profile-counter.glitch.me/1920853199/count.svg" alt="Valdanito :: Visitor's Count" /></p>
+<img src="https://profile-counter.glitch.me/1920853199/count.svg" alt="chenli :: Visitor's Count" />
+### Hi there 👋 
 
 
 Here are some quick things about me:

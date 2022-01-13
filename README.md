@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi there 👋 <p align="center"><img src="https://profile-counter.glitch.me/1920853199/count.svg" alt="Valdanito :: Visitor's Count" /></p>
 
 
 Here are some quick things about me:

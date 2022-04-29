@@ -5,7 +5,7 @@
 
 Here are some quick things about me:
 
-- 🔭 I’m the author of go-blog.
+- 🔭 I’m the author of go-blog/go-bbs.
 - 📫 The best way to reach me is sending me an email.
 - ⚡ Coding is my passion.
 
